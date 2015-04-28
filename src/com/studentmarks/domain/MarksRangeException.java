@@ -15,8 +15,9 @@ public class MarksRangeException extends Throwable {
 	public  MarksRangeException(String msg )
 	{
 		super(msg);
+		System.out.println("end");
 	}
 	
 }
-///djhfuhug
+
 
